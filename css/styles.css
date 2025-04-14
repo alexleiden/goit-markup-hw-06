@@ -753,7 +753,7 @@ button {
   margin-bottom: 4px;
   font-weight: 400;
   font-size: 12px;
-  line-height: 1.17;
+  line-height: 1.16667;
   letter-spacing: 0.04em;
   color: #8e8f99;
 }
@@ -817,7 +817,7 @@ button {
 .modal-form-textarea::placeholder {
   font-weight: 400;
   font-size: 12px;
-  line-height: 1.17;
+  line-height: 1.16667;
   letter-spacing: 0.04em;
   color: #8e8f99;
   opacity: 0.5;
@@ -1285,7 +1285,7 @@ button {
   .header-logo {
     margin-right: 147px;
   }
-}
+
   /* INTRO SECTION */
 
   .intro-section {
@@ -1414,3 +1414,4 @@ button {
   .footer-form-btn {
     width: 163px;
   }
+}
